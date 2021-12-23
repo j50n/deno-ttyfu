@@ -1,4 +1,4 @@
-import { rem } from "../../util.ts";
+import { rem } from "../util.ts";
 import { Canvas } from "../canvas/canvas.ts";
 import { CLEAR } from "../canvas/color.ts";
 import { makeDivisibleBy3, makeEven } from "../canvas/util.ts";
